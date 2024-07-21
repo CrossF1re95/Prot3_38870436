@@ -1,0 +1,79 @@
+body {
+    background: #ccc;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #1cd0dd;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    color: #000;
+}
+    
+section {
+    padding: 20px; /* espaciado para la sección de 20 pixeles */
+}
+nav {
+    background-color: #2031c4;
+    padding: 10px;
+}
+
+a {
+    color: #000;
+}
+  
+a:link {
+    text-decoration: none;
+}
+  
+a:hover {
+    color: #1717FF;
+    cursor: pointer;
+}
+
+img {
+    margin: 0 auto; /* Centrar las imágenes horizontalmente */
+    padding: 10px;
+    width: 850px;
+    height: 500px;
+    max-width: 850px; /* Asegurar que las imágenes no excedan el ancho del contenedor */
+    border: 3px solid #35b5be; /* Contorno de 3px con un color verde (#69bd45) alrededor de la img.*/
+    border-radius: 10px; /* Borde redondeado de 10px para suavizar el contorno */
+}   
+    
+footer {
+    background-color: #1cd0dd; /* Color de fondo del footer */
+    color: #000;
+    padding: 20px 0;
+}
+        
+.footer-content {
+    max-width: 100%; /* Ancho máximo del contenido del footer */
+    margin: 0 auto; /* Centrar el contenido del footer horizontalmente */
+    text-align: center;
+}
+
+.icons{
+    max-width: 50px;
+    max-height: 50px;
+}
+
+.card{
+    display: inline-block;
+}
+
+.card-img-top{
+    width: 18rem;
+    height: 300px;
+}
+
+.logo-empresa{
+    width: 100px;
+    height: 100px;
+    margin: 0;
+    display: flex;
+}
