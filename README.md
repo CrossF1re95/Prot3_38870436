@@ -1,1 +1,2 @@
 Para llevar a cabo la ejecucion de esta pagina pegar las carpetas en un proyecto con base codeigniter en xampp
+al hacer login se muestra por alguna razon se muestra el html sin el estilo, pero al cliquear al home funciona normalmente la pagina
